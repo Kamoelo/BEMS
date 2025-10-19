@@ -1,0 +1,231 @@
+/* Utility class for black text */
+.text-black-force {
+  color: #000 !important;
+}
+/* Dynamic width classes for attendance and salary bars (0-100%) */
+.attendance-bar-width-0 { width: 0%; }
+.attendance-bar-width-1 { width: 1%; }
+.attendance-bar-width-2 { width: 2%; }
+.attendance-bar-width-3 { width: 3%; }
+.attendance-bar-width-4 { width: 4%; }
+.attendance-bar-width-5 { width: 5%; }
+.attendance-bar-width-6 { width: 6%; }
+.attendance-bar-width-7 { width: 7%; }
+.attendance-bar-width-8 { width: 8%; }
+.attendance-bar-width-9 { width: 9%; }
+.attendance-bar-width-10 { width: 10%; }
+.attendance-bar-width-11 { width: 11%; }
+.attendance-bar-width-12 { width: 12%; }
+.attendance-bar-width-13 { width: 13%; }
+.attendance-bar-width-14 { width: 14%; }
+.attendance-bar-width-15 { width: 15%; }
+.attendance-bar-width-16 { width: 16%; }
+.attendance-bar-width-17 { width: 17%; }
+.attendance-bar-width-18 { width: 18%; }
+.attendance-bar-width-19 { width: 19%; }
+.attendance-bar-width-20 { width: 20%; }
+.attendance-bar-width-21 { width: 21%; }
+.attendance-bar-width-22 { width: 22%; }
+.attendance-bar-width-23 { width: 23%; }
+.attendance-bar-width-24 { width: 24%; }
+.attendance-bar-width-25 { width: 25%; }
+.attendance-bar-width-26 { width: 26%; }
+.attendance-bar-width-27 { width: 27%; }
+.attendance-bar-width-28 { width: 28%; }
+.attendance-bar-width-29 { width: 29%; }
+.attendance-bar-width-30 { width: 30%; }
+.attendance-bar-width-31 { width: 31%; }
+.attendance-bar-width-32 { width: 32%; }
+.attendance-bar-width-33 { width: 33%; }
+.attendance-bar-width-34 { width: 34%; }
+.attendance-bar-width-35 { width: 35%; }
+.attendance-bar-width-36 { width: 36%; }
+.attendance-bar-width-37 { width: 37%; }
+.attendance-bar-width-38 { width: 38%; }
+.attendance-bar-width-39 { width: 39%; }
+.attendance-bar-width-40 { width: 40%; }
+.attendance-bar-width-41 { width: 41%; }
+.attendance-bar-width-42 { width: 42%; }
+.attendance-bar-width-43 { width: 43%; }
+.attendance-bar-width-44 { width: 44%; }
+.attendance-bar-width-45 { width: 45%; }
+.attendance-bar-width-46 { width: 46%; }
+.attendance-bar-width-47 { width: 47%; }
+.attendance-bar-width-48 { width: 48%; }
+.attendance-bar-width-49 { width: 49%; }
+.attendance-bar-width-50 { width: 50%; }
+.attendance-bar-width-51 { width: 51%; }
+.attendance-bar-width-52 { width: 52%; }
+.attendance-bar-width-53 { width: 53%; }
+.attendance-bar-width-54 { width: 54%; }
+.attendance-bar-width-55 { width: 55%; }
+.attendance-bar-width-56 { width: 56%; }
+.attendance-bar-width-57 { width: 57%; }
+.attendance-bar-width-58 { width: 58%; }
+.attendance-bar-width-59 { width: 59%; }
+.attendance-bar-width-60 { width: 60%; }
+.attendance-bar-width-61 { width: 61%; }
+.attendance-bar-width-62 { width: 62%; }
+.attendance-bar-width-63 { width: 63%; }
+.attendance-bar-width-64 { width: 64%; }
+.attendance-bar-width-65 { width: 65%; }
+.attendance-bar-width-66 { width: 66%; }
+.attendance-bar-width-67 { width: 67%; }
+.attendance-bar-width-68 { width: 68%; }
+.attendance-bar-width-69 { width: 69%; }
+.attendance-bar-width-70 { width: 70%; }
+.attendance-bar-width-71 { width: 71%; }
+.attendance-bar-width-72 { width: 72%; }
+.attendance-bar-width-73 { width: 73%; }
+.attendance-bar-width-74 { width: 74%; }
+.attendance-bar-width-75 { width: 75%; }
+.attendance-bar-width-76 { width: 76%; }
+.attendance-bar-width-77 { width: 77%; }
+.attendance-bar-width-78 { width: 78%; }
+.attendance-bar-width-79 { width: 79%; }
+.attendance-bar-width-80 { width: 80%; }
+.attendance-bar-width-81 { width: 81%; }
+.attendance-bar-width-82 { width: 82%; }
+.attendance-bar-width-83 { width: 83%; }
+.attendance-bar-width-84 { width: 84%; }
+.attendance-bar-width-85 { width: 85%; }
+.attendance-bar-width-86 { width: 86%; }
+.attendance-bar-width-87 { width: 87%; }
+.attendance-bar-width-88 { width: 88%; }
+.attendance-bar-width-89 { width: 89%; }
+.attendance-bar-width-90 { width: 90%; }
+.attendance-bar-width-91 { width: 91%; }
+.attendance-bar-width-92 { width: 92%; }
+.attendance-bar-width-93 { width: 93%; }
+.attendance-bar-width-94 { width: 94%; }
+.attendance-bar-width-95 { width: 95%; }
+.attendance-bar-width-96 { width: 96%; }
+.attendance-bar-width-97 { width: 97%; }
+.attendance-bar-width-98 { width: 98%; }
+.attendance-bar-width-99 { width: 99%; }
+.attendance-bar-width-100 { width: 100%; }
+.salary-bar-width-0 { width: 0%; }
+.salary-bar-width-1 { width: 1%; }
+.salary-bar-width-2 { width: 2%; }
+.salary-bar-width-3 { width: 3%; }
+.salary-bar-width-4 { width: 4%; }
+.salary-bar-width-5 { width: 5%; }
+.salary-bar-width-6 { width: 6%; }
+.salary-bar-width-7 { width: 7%; }
+.salary-bar-width-8 { width: 8%; }
+.salary-bar-width-9 { width: 9%; }
+.salary-bar-width-10 { width: 10%; }
+.salary-bar-width-11 { width: 11%; }
+.salary-bar-width-12 { width: 12%; }
+.salary-bar-width-13 { width: 13%; }
+.salary-bar-width-14 { width: 14%; }
+.salary-bar-width-15 { width: 15%; }
+.salary-bar-width-16 { width: 16%; }
+.salary-bar-width-17 { width: 17%; }
+.salary-bar-width-18 { width: 18%; }
+.salary-bar-width-19 { width: 19%; }
+.salary-bar-width-20 { width: 20%; }
+.salary-bar-width-21 { width: 21%; }
+.salary-bar-width-22 { width: 22%; }
+.salary-bar-width-23 { width: 23%; }
+.salary-bar-width-24 { width: 24%; }
+.salary-bar-width-25 { width: 25%; }
+.salary-bar-width-26 { width: 26%; }
+.salary-bar-width-27 { width: 27%; }
+.salary-bar-width-28 { width: 28%; }
+.salary-bar-width-29 { width: 29%; }
+.salary-bar-width-30 { width: 30%; }
+.salary-bar-width-31 { width: 31%; }
+.salary-bar-width-32 { width: 32%; }
+.salary-bar-width-33 { width: 33%; }
+.salary-bar-width-34 { width: 34%; }
+.salary-bar-width-35 { width: 35%; }
+.salary-bar-width-36 { width: 36%; }
+.salary-bar-width-37 { width: 37%; }
+.salary-bar-width-38 { width: 38%; }
+.salary-bar-width-39 { width: 39%; }
+.salary-bar-width-40 { width: 40%; }
+.salary-bar-width-41 { width: 41%; }
+.salary-bar-width-42 { width: 42%; }
+.salary-bar-width-43 { width: 43%; }
+.salary-bar-width-44 { width: 44%; }
+.salary-bar-width-45 { width: 45%; }
+.salary-bar-width-46 { width: 46%; }
+.salary-bar-width-47 { width: 47%; }
+.salary-bar-width-48 { width: 48%; }
+.salary-bar-width-49 { width: 49%; }
+.salary-bar-width-50 { width: 50%; }
+.salary-bar-width-51 { width: 51%; }
+.salary-bar-width-52 { width: 52%; }
+.salary-bar-width-53 { width: 53%; }
+.salary-bar-width-54 { width: 54%; }
+.salary-bar-width-55 { width: 55%; }
+.salary-bar-width-56 { width: 56%; }
+.salary-bar-width-57 { width: 57%; }
+.salary-bar-width-58 { width: 58%; }
+.salary-bar-width-59 { width: 59%; }
+.salary-bar-width-60 { width: 60%; }
+.salary-bar-width-61 { width: 61%; }
+.salary-bar-width-62 { width: 62%; }
+.salary-bar-width-63 { width: 63%; }
+.salary-bar-width-64 { width: 64%; }
+.salary-bar-width-65 { width: 65%; }
+.salary-bar-width-66 { width: 66%; }
+.salary-bar-width-67 { width: 67%; }
+.salary-bar-width-68 { width: 68%; }
+.salary-bar-width-69 { width: 69%; }
+.salary-bar-width-70 { width: 70%; }
+.salary-bar-width-71 { width: 71%; }
+.salary-bar-width-72 { width: 72%; }
+.salary-bar-width-73 { width: 73%; }
+.salary-bar-width-74 { width: 74%; }
+.salary-bar-width-75 { width: 75%; }
+.salary-bar-width-76 { width: 76%; }
+.salary-bar-width-77 { width: 77%; }
+.salary-bar-width-78 { width: 78%; }
+.salary-bar-width-79 { width: 79%; }
+.salary-bar-width-80 { width: 80%; }
+.salary-bar-width-81 { width: 81%; }
+.salary-bar-width-82 { width: 82%; }
+.salary-bar-width-83 { width: 83%; }
+.salary-bar-width-84 { width: 84%; }
+.salary-bar-width-85 { width: 85%; }
+.salary-bar-width-86 { width: 86%; }
+.salary-bar-width-87 { width: 87%; }
+.salary-bar-width-88 { width: 88%; }
+.salary-bar-width-89 { width: 89%; }
+.salary-bar-width-90 { width: 90%; }
+.salary-bar-width-91 { width: 91%; }
+.salary-bar-width-92 { width: 92%; }
+.salary-bar-width-93 { width: 93%; }
+.salary-bar-width-94 { width: 94%; }
+.salary-bar-width-95 { width: 95%; }
+.salary-bar-width-96 { width: 96%; }
+.salary-bar-width-97 { width: 97%; }
+.salary-bar-width-98 { width: 98%; }
+.salary-bar-width-99 { width: 99%; }
+.salary-bar-width-100 { width: 100%; }
+@import "tailwindcss";
+
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
